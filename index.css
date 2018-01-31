@@ -5,3 +5,7 @@ border: solid black 3px;
 h6{
   color: blue;
 }
+
+.bolded{
+  font-weight: bold;
+}
