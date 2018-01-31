@@ -5,3 +5,7 @@ border: solid black 3px;
 h6{
   color: blue;
 }
+h1 {
+  /* This is a not so horrible color */
+  color: grey;
+}
