@@ -5,7 +5,13 @@ border: solid black 3px;
 h6{
   color: blue;
 }
+<<<<<<< HEAD
 h1 {
   /* This is a not so horrible color */
   color: grey;
+=======
+
+.bolded{
+  font-weight: bold;
+>>>>>>> bad8a99467cd6902db2a305335b54697f60e9dbb
 }
